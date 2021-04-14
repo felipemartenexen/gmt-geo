@@ -9,7 +9,7 @@ import { fromLonLat } from 'ol/proj';
 import {
   DigitizeButton,
   ToggleGroup,
-  MeasureButton,
+  MeasureButton, 
   MapComponent  
 } from '@terrestris/react-geo';
 
